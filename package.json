@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "mocha": "^7.1.2",
     "mockgoose": "^8.0.4",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "slugify": "^1.3.4",
     "supertest": "^4.0.2",
